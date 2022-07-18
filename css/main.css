@@ -11,10 +11,99 @@
     --header-font: 'Lato', sans-serif;
     /* --header-font: 'Tinos', serif; */
     --body-font: 'Lato', sans-serif;
+    --line-size-short: 3px;
+    --line-size-long: 100px;
+    --headshot-width: 300px;
 }
 
 body {
     font-family: var(--body-font);
-    background-color: var(--color-main);
     color: var(--color-black);
+    margin: 45px;
+    height: 100vh;
+    background: linear-gradient(
+        to right,
+        var(--color-main) 0%,
+        var(--color-main) 65%,
+        var(--color-accent-one) 0%,
+        var(--color-accent-one) 45%
+    );
+}
+main h1 {
+    font-size: 45px;
+    white-space: nowrap;
+}
+/* main page grid */
+.mainContentsGrid {
+    display: grid;
+    grid-template-columns: auto var(--headshot-width);
+    grid-template-rows: auto auto;
+    column-gap: 25px;
+    row-gap: 25px;
+  }
+.left-side {
+    grid-column-start: 0;
+    grid-column-end: 1;
+    grid-row-start: 0;
+    grid-row-end: 1;
+}
+.in-middle {
+    grid-column-start: 1;
+    grid-column-end: 2;
+    grid-row-start: 0;
+    grid-row-end: 1;
+}
+.right-side {
+    grid-column-start: 2;
+    grid-column-end: 3;
+    grid-row-start: 0;
+    grid-row-end: 1;
+}
+.row-two-mid-end {
+    grid-column-start: 1;
+    grid-column-end: 2;
+    grid-row-start: 1;
+    grid-row-end: 3;
+    align-content: end;
+}
+#headshot {
+    width: var(--headshot-width);
+}
+
+/* shapes */
+.vertical-line {
+    height: var(--line-size-long);
+    width: var(--line-size-short);
+    background-color: var(--color-black);
+  }
+.horizontal-line {
+    height: var(--line-size-short);
+    width: var(--line-size-long);
+    background-color: var(--color-black);
+    align-items: right;
+}
+
+/* icons */
+.icon-img {
+    width: 45px;
+}
+#ln-icon {
+    padding-left: 8px;
+}
+
+/* buttons */
+.main-button {
+    background-color: var(--color-accent-two);
+    border: none;
+    padding: 10px 25px;
+    text-align: center;
+    font-size: 14px;
+    margin-top: 15px;
+    border-radius: 8px;
+}
+.main-button:hover {
+    background-color: var(--color-gray);
+}
+#main-button-two {
+    margin-left: 10px;
 }
