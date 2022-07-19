@@ -8,7 +8,12 @@ The website made in this repository is a web portfolio. The purpose of creating 
 
 ### Wireframe 
 
-<iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="800" height="450" src="https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Ffile%2FK9chxBaQUK3tW0LXPqG18Y%2Fweb-portfolio%3Fnode-id%3D0%253A1" allowfullscreen></iframe>
+[Figma Link](https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Ffile%2FK9chxBaQUK3tW0LXPqG18Y%2Fweb-portfolio%3Fnode-id%3D0%253A1)
+
+<img src="resources/wireframe-one.png" width="300"/>
+<img src="resources/wireframe-two.png" width="300"/>
+<img src="resources/wireframe-three.png" width="300"/>
+
 
 ### YouTube demonstration
 The following link is a walkthrough of the code and working website. 
