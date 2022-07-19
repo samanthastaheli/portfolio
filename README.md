@@ -18,7 +18,7 @@ The website made in this repository is a web portfolio. The purpose of creating 
 ### YouTube demonstration
 The following link is a walkthrough of the code and working website. 
 
-[Software Demo Video](http://youtube.link.goes.here)
+[Software Demo Video](https://youtu.be/fikn8EXGqbM)
 
 ## Web Pages
 
