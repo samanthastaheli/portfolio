@@ -1,6 +1,6 @@
 # Samantha Staheli
 
-#### Links:
+### Links:
 [LinkedIn](inkedin.com/in/samantha-staheli)
 
 [GitHub](github.com/samanthastaheli)
