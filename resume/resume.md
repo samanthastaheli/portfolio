@@ -1,9 +1,9 @@
 # Samantha Staheli
 
 ### Links:
-[LinkedIn](inkedin.com/in/samantha-staheli)
+[LinkedIn](https://www.linkedin.com/in/samantha-staheli/)
 
-[GitHub](github.com/samanthastaheli)
+[GitHub](https://www.github.com/samanthastaheli)
 
 ## EDUCATION
 
