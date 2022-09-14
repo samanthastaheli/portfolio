@@ -4,10 +4,9 @@
 [LinkedIn](inkedin.com/in/samantha-staheli)
 [GitHub](github.com/samanthastaheli)
 
-## Education
+## EDUCATION
 
-### Brigham Young University – Idaho                                     
-
+### Brigham Young University – Idaho
 *Bachelor of Science in Computer Science*                                       
 
 December 2022 | Rexburg, ID
@@ -18,10 +17,9 @@ December 2022 | Rexburg, ID
 * Data Science Society (Spring 2022)
 * Relevant course work: Data Science Programming, Machine Learning, Programming with Data Structures, Front-end Web Development
 
-## Work Experience
+## WORK EXPERIENCE
 
-**Edge Analytical Laboratories**
-
+### Edge Analytical Laboratories
 *Accounting Clerk*
 
 August 2020 - August 2022 | Burlington, WA
@@ -36,42 +34,38 @@ August 2020 - August 2022 | Burlington, WA
 * Devised standard operating procedures (SOPs) used by about 6 employees to ensure consistency of tasks and organization
 * Redesigned human resources forms to enable efficient reading and writing of information needed; made task 50% more efficient
 
-## Experiential Learning Projects
+## EXPERIENTIAL LEARNING PROJECTS
 
-**BYU-I Fall 2022 Hackathon**
-
+### BYU-I Fall 2022 Hackathon
 *Hackathon Coordinator*
 
 October 2022 | Rexburg, ID
 
 * Aided in creating hackathon schedule, prizes, and t-shirts
 
-**Society of Women Engineers**
-
+### Society of Women Engineers
 *Hackathon*
 
 June 2021 | Rexburg, ID
 
 * Created a website to display multiple recipes consistent with a theme
 
-## Knowledge, Skills
-**Advanced**
+## KNOWLEDGE, SKILLS
+### Advanced
 * Python
 * JavaScript
 * CSS
 * HTML
 
-**Competent**
+### Competent
 * C++
 * R
 * Go
 * SQL
 
-**Tools**
+### Tools
 * Visual Studio Code
 * Microsoft Visual Studio
 * MySQL Workbench
 * Microsoft SQL Server Management Studio
 * Microsoft Office (Word, Excel, PowerPoint)
-
-
