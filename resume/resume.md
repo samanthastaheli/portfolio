@@ -10,8 +10,7 @@
 
 *Bachelor of Science in Computer Science*                                       
 
-December 2022
-Rexburg, ID
+December 2022 | Rexburg, ID
 
 * ACM Society | Vice-President (Fall 2022)
 * ACM Women Society | Hackathon Coordinator (Fall 2022)
@@ -20,11 +19,12 @@ Rexburg, ID
 * Relevant course work: Data Science Programming, Machine Learning, Programming with Data Structures, Front-end Web Development
 
 ## Work Experience
+
 **Edge Analytical Laboratories**
+
 *Accounting Clerk*
 
-August 2020 - August 2022
-Burlington, WA
+August 2020 - August 2022 | Burlington, WA
 
 * Handled accounts payable by entering invoices and statements into Sage 50 (accounting software), paying via credit card or check, and correctly filing according to vendor name and type
 * Managed year-end storage of files to ensure ease of availability when files may be needed; increased efficiency by 60%
@@ -37,19 +37,20 @@ Burlington, WA
 * Redesigned human resources forms to enable efficient reading and writing of information needed; made task 50% more efficient
 
 ## Experiential Learning Projects
+
 **BYU-I Fall 2022 Hackathon**
+
 *Hackathon Coordinator*
 
-October 2022
-Rexburg, ID
+October 2022 | Rexburg, ID
 
 * Aided in creating hackathon schedule, prizes, and t-shirts
 
 **Society of Women Engineers**
+
 *Hackathon*
 
-June 2021
-Rexburg, ID
+June 2021 | Rexburg, ID
 
 * Created a website to display multiple recipes consistent with a theme
 
