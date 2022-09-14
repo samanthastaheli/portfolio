@@ -6,7 +6,7 @@
 
 ## Education
 
-**Brigham Young University – Idaho**                                        
+### Brigham Young University – Idaho                                     
 
 *Bachelor of Science in Computer Science*                                       
 
