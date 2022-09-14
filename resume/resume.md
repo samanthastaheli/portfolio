@@ -6,10 +6,9 @@
 
 ## Education
 
-**Brigham Young University – Idaho**
-*Bachelor of Science in Computer Science*
-*December 2022*
-*Rexburg, ID*
+**Brigham Young University – Idaho** <div style="text-align: right"> December 2022 </div>
+
+*Bachelor of Science in Computer Science* <div style="text-align: right"> Rexburg, ID </div>
 
 * ACM Society | Vice-President (Fall 2022)
 * ACM Women Society | Hackathon Coordinator (Fall 2022)
